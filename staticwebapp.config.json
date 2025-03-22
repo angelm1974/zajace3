@@ -7,6 +7,14 @@
       ],
       "redirect": "https://onet.pl",
       "statusCode": 301
+    },
+    {
+      "route": "/hurt",
+      "methods": [
+        "get"
+      ],
+      "redirect": "https://www.empik.com/szkolne-i-papiernicze/kartki,4010,s?occasions=na+ka%C5%BCd%C4%85+okazj%C4%99",
+      "statusCode": 301
     }
   ]
 }
